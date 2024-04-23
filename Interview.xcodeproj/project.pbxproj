@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		873DC5022BCFB46E009595D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 873DC5012BCFB46E009595D0 /* ContentView.swift */; };
 		87A711942BCE4519000AA088 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A711932BCE4519000AA088 /* AppDelegate.swift */; };
 		87A711962BCE4519000AA088 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A711952BCE4519000AA088 /* SceneDelegate.swift */; };
 		87A711982BCE4519000AA088 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87A711972BCE4519000AA088 /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		873DC5012BCFB46E009595D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		87A711902BCE4519000AA088 /* Interview.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Interview.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		87A711932BCE4519000AA088 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		87A711952BCE4519000AA088 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				87A7119C2BCE451A000AA088 /* Assets.xcassets */,
 				87A7119E2BCE451A000AA088 /* LaunchScreen.storyboard */,
 				87A711A12BCE451A000AA088 /* Info.plist */,
+				873DC5012BCFB46E009595D0 /* ContentView.swift */,
 			);
 			path = Interview;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				87A711982BCE4519000AA088 /* ViewController.swift in Sources */,
 				87A711942BCE4519000AA088 /* AppDelegate.swift in Sources */,
+				873DC5022BCFB46E009595D0 /* ContentView.swift in Sources */,
 				87A711962BCE4519000AA088 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -442,6 +446,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X9S6S238S5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Interview/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -469,6 +474,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = X9S6S238S5;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = Interview/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
